@@ -1,0 +1,11 @@
+.Japao-container{
+    display: flex;
+    width: 90;
+    height: 90;
+    color: #ff0000;
+    background-color: black;
+}
+.circulo{
+    color: #ff0000;
+    
+}

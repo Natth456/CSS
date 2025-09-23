@@ -1,0 +1,10 @@
+1) Após o usuário digitar a URL ou Universal R Language, uma solicitação é enviado aos servidores, os quais hospedam a parte do código e enviam os resultados para os usuários, então caso não haja problemas com a conexão, o servidor faz a transferência das informações ao navegador do usuário que interpreta esses códigos e carrega a página
+
+2) B
+
+3) C
+
+4) B
+
+5) D
+
